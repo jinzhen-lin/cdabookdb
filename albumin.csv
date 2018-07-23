@@ -1,0 +1,33 @@
+Trial,Critical illness,No of patients,Intervention,Control,Length of follow up,Total No of deaths,Allocation concealment
+Skillman,Surgery,16,25% concentrated salt-poor albumin 1 g/kg and 5% albumin in saline,Ringer's lactate with 5% dextrose ,1 day,Not known,2
+Shah,Trauma,20,5% salt-poor albumin in Ringer's lactate,Ringer's lactate ,Unspecified,5,3
+Lowe,Trauma,171,50 g albumin/200 ml Ringer's lactate,Ringer's lactate ,5 days,6,3
+Boutros,Surgery,24,Albumin in 5% dextrose,5% dextrose in lactated Ringer's (n=9) 5% dextrose in 0.45% NaCl (n=8),4 days,2,2
+Virgilio,Surgery,29,,5% albumin in Ringer's lactate,Ringer's lactate 2.5 weeks,2,2
+Lucas,Trauma,52,"150 g salt-poor albumin during operation, 150 g/day for 5 days postoperatively",No albumin ,To positive fluid balance or oral intake,7,1
+Zetterstrom,Surgery,30,"20% albumin 100 ml at end of operation, 200 ml on day of operation, 100 ml/day for next 3 days",No albumin ,Unspecified,1,3
+Zetterstrom,Surgery,18,5% albumin to keep pulmonary arterial occlusion pressure equal to preoperative level,Balanced electrolyte solution of Ringer's type to keep pulmonary arterial pressure equal to preoperative level,Unspecified,2,3
+Grundman,Surgery,17,Human albumin and crystalloid,Crystalloid only ,5 days,1,2
+Rackow,Trauma and sepsis,17,5% albumin,0.9% NaCl ,To discharge,12,2
+Gallagher,Surgery,10,5% albumin,Ringer's lactate ,1 day,0,3
+Nielsen,Surgery,26,"80 g albumin in units of 100 ml 20% albumin on day of operation, 20 g daily for next 3 days",No albumin ,4 days,0,2
+Prien,Surgery,12,20% albumin to maintain central venous pressure at preoperative level,Ringers lactate ,Unspecified,0,2
+Boldt,Surgery,30,5% albumin,No albumin ,1 day,0,3
+McNulty,Surgery,28,5% albumin,Isotonic crystalloid ,Unspecified,Not known,2
+Woods,Surgery,69,Albumin supplementation,No supplementation ,To discharge,1,1
+Pockaj,Vascular leak syndrome,107,5% albumin in 0.9% NaCl,0.9% NaCl ,Unspecified,0,2
+Tollofsrud,Surgery,20,4% albumin when fluid required,Ringer's acetate ,48 hours,1,3
+So,Hypotensive preterm infant,63,5% albumin 10 ml/kg over 30 minutes,0.9% NaCl 10 ml/kg over 30 minutes ,To discharge,12,3
+Woittiez,Surgery,31,20% albumin,0.9% NaCl ,Unspecified,12,3
+Jelenko,Burns,14,Hypertonic crystalloid with 12.5 g/l albumin,Ringer's lactate ,5 days,3,2
+Goodwin,Burns,79,2.5% albumin in Ringer's lactate,Ringer's lactate ,To discharge,14,2
+Greenhalgh,Burns,70,25% albumin to maintain serum levels between 2.5 and 3.5 g/dl,No albumin unless levels dropped below 1.5 g/dl,To discharge,10,3
+Bland,Hypoproteinaemia,27,25% albumin 8 ml/kg,5% glucose 8 ml/kg ,Unspecified,5,2
+Nilsson,Hypoalbuminaemia (postoperative),59,20-25 g albumin/day for 3 days starting day after operation,No supplemental albumin ,To discharge,1,3
+Brown,Hypoalbuminaemia,67,TPN with added albumin,No supplemental albumin ,To discharge,10,1
+Foley,Hypoalbuminaemia,40,TPN with added albumin (25-50 g/day 25% albumin),No supplemental albumin ,To discharge,13,1
+Kanarek,Hypoalbuminaemia,24,TPN with added albumin,No supplemental albumin ,Unspecified,5,3
+Wojtysiak,Hypoalbuminaemia,30,TPN with added albumin,No supplemental albumin ,5 days,0,1
+Greenough,Hypoalbuminaemic sick preterm infants,40,20% salt-poor albumin 5 ml/kg with maintenance fluids,5 ml/kg maintenance fluid placebo ,24 hours after infusion,10,3
+Golub,Hypoalbuminaemia,219,37.5 g/day albumin until serum albumin >3.0 g/dl,No supplemental albumin ,To discharge,18,3
+Rubin,Hypoalbuminaemia,36,TPN with added albumin,No supplemental albumin ,To discharge,3,3
